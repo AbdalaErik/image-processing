@@ -1,3 +1,16 @@
+# Processamento de Imagens
+
+O projeto consiste em um algoritmo para colorir os pixels de uma imagem tendo como base um banco de imagens padrão, no qual o método utilizado para cálculo das faixas de valores de referência é por meio da média e desvio padrão dos canais R, G, B.
+
+Imagem original            |  Imagem processada
+:-------------------------:|:-------------------------:
+![](apples.jpeg)  |  ![](processed_apples.jpg)
+
+**IFSULDEMINAS - Câmpus Muzambinho**  
+**Curso:** Ciência da Computação  
+**Disciplina:** Computação Gráfica  
+**Docente:** João Marcelo Ribeiro  
+
 # Instruções para execução do projeto
 
 ## Passos para baixar e abrir o projeto
