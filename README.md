@@ -25,7 +25,7 @@ Imagem original            |  Imagem processada
 
 ### 1. Crie um ambiente virtual:
 ```bash
-python3 -m venv venv
+python -m venv venv
 ```
 ### 2. Ative o ambiente virtual:
 #### Windows: 
